@@ -1,6 +1,6 @@
 # Custom LED Lights Using Arduino
 
----
+<!-- --- -->
 
 ## Hardware
 
@@ -16,14 +16,14 @@ All put together, we get a system something like this. When running on the exter
 
 ## Software
 
----
-
 The actual programming of the LED lights takes place in the form of C++ code in the Arduino IDE. Arduino programs use two foundational functions, `setup()` and `loop()`, which do as they say. `setup()` runs once, allowing us to set up any variables we need during the actual program's execution. `loop()` runs infinitely (unless programmed to quit), which is what allows us to produce patterns on our LED lights over time.
 
 > What are some things we can do with this on our lights with this structure?
 > > test
 
-Here's a list of programs (or sketches) that this repo has:
--one
--two
+Here's a list of programs (or sketches) that this repo has that build off of each other:
+- `rainbow_moving.ino` creates rainbow that 'moves' with incrementing HSV value for each LED
+- `cyber_gradient.ino` same concept except with Gradient objects for a 'moving' yellow-pink gradient
+- `rainbow_waves.ino` introduces trigonometric waves along a rainbow gradient
+- 
 
