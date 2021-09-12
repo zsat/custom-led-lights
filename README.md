@@ -24,6 +24,8 @@ The actual programming of the LED lights takes place in the form of C++ code in 
 
 In addition to hard-coding patterns, we're also using the [FastLED library](https://github.com/FastLED/FastLED/wiki/Overview#math), which provides some very optimized, mathematical functions that we can thus represent on a linear graph in the from of LEDs. [This video series](https://www.youtube.com/watch?v=4Ut4UK7612M&list=PLgXkGn3BBAGi5dTOCuEwrLuFtfz0kGFTC) provides useful visualizations for some of FastLED's functionalities.  
 
+...
+
 Here's a list of programs (or sketches) that this repo has that build off of each other:
 - `rainbow_moving.ino` creates rainbow that 'moves' with incrementing HSV value for each LED
 - `cyber_gradient.ino` same concept except with Gradient objects for a 'moving' yellow-pink gradient
