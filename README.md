@@ -2,9 +2,11 @@
 
 > Addressable LED lights allow us to represent many interesting patterns and functions in a fun way.
 
+---
+
 ## Hardware
 
-Using an Arduino Nano, I'm able to upload code and control an addressable LED light strip to do whatever I can imagine. I upload code from the Arduino IDE to the Arduino Nano, which will normally get power from the external power supply that is routed to the breadboard. The strip of addressable LED lights has a data line in addition to its power lines, which is how the strip of lights knows what to do. The schematic below points out these points of interest.
+Using an Arduino Nano, I'm able to upload code and control an addressable (a.k.a. programmable) LED light strip to do whatever I can imagine. I upload code from the Arduino IDE to the Arduino Nano, which will normally get power from the external power supply that is routed to the breadboard. The strip of addressable LED lights has a data line in addition to its power lines, which is how the strip of lights knows what to do. The schematic below points out these points of interest.
 
 (room for schematic)
 
