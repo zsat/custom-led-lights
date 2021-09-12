@@ -12,7 +12,7 @@ Using an Arduino Nano, I'm able to upload code and control an addressable (a.k.a
 
 (list of items used, maybe with pictures or just include final product picture)
 
-All put together, we get a system something like this. When running on the external power supply, there won't be a need for the Mini-USB port that we use to upload code from our computer.
+All put together, we get a system something like the picture above. When running on the external power supply, there won't be a need for the Mini-USB port that we use to upload code from our computer.
 
 ---
 
