@@ -17,6 +17,7 @@ void setup() {
   FastLED.setCorrection(TypicalPixelString);
 }
 
+// function that we noted loops infinitely unless coded to stop at event
 void loop() {
 
   // CHSV wraps given HSV value from 255 back to 0
