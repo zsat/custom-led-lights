@@ -11,6 +11,12 @@ Using an Arduino Nano, I'm able to upload code and control an addressable (a.k.a
 (room for schematic)
 
 (list of items used, maybe with pictures or just include final product picture)
+All of the components I had to purchase were:
+- The addressable [LED light strip](https://www.amazon.com/gp/product/B01CDTEJBG) (5m, 60 lights/m)
+- [12V power supply](https://www.amazon.com/TMEZON-Power-Adapter-Supply-2-1mm/dp/B00Q2E5IXW)
+- Breadboard + wires ([as a kit](https://www.amazon.com/Smraza-Breadboard-Resistors-Mega2560-Raspberry/dp/B01HRR7EBG))
+- [Arduino Nano](https://www.amazon.com/gp/product/B0713XK923)
+- [USB-C to Mini-USB](https://www.amazon.com/gp/product/B00UUBPYTQ) wire (specific for my laptop)
 
 All put together, we get a system something like the picture above. When running on the external power supply, there won't be a need for the Mini-USB port that we use to upload code from our computer.
 
