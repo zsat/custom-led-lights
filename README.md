@@ -21,7 +21,7 @@ All put together, we get a system something like this. When running on the exter
 The actual programming of the LED lights takes place in the form of C++ code in the Arduino IDE. Arduino programs use two foundational functions, `setup()` and `loop()`, which do as they say. `setup()` runs once, allowing us to set up any variables we need during the actual program's execution. `loop()` runs infinitely (unless programmed to quit), which is what allows us to produce repeating patterns on our LED lights.
 
 > What can we ultimately make the lights do? What are our limitations?
-In addition to hard-coding patterns, we're also using the FastLED library, which provides some very optimized, mathematical functions that we can thus represent on a linear graph in the from of LEDs.
+In addition to hard-coding patterns, we're also using the FastLED library, which provides some very optimized, mathematical functions that we can thus represent on a linear graph in the from of LEDs. [This video series](https://www.youtube.com/watch?v=4Ut4UK7612M&list=PLgXkGn3BBAGi5dTOCuEwrLuFtfz0kGFTC) provides useful visualizations for some of FastLED's functionalities.
 
 Here's a list of programs (or sketches) that this repo has that build off of each other:
 - `rainbow_moving.ino` creates rainbow that 'moves' with incrementing HSV value for each LED
