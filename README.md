@@ -1,6 +1,6 @@
 # Custom LED Lights Using Arduino
 
-> I wanted to fully control the lighting in my room, adding my personality to it.
+> Allows us to represent many interesting patterns and functions in a fun way.
 
 ## Hardware
 
