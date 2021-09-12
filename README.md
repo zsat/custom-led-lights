@@ -1,6 +1,6 @@
 # Custom LED Lights Using Arduino
 
-> Allows us to represent many interesting patterns and functions in a fun way.
+> Programming LED lights allows us to represent many interesting patterns and functions in a fun way.
 
 ## Hardware
 
