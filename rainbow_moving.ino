@@ -9,6 +9,8 @@
 CRGB leds[NUM_LEDS];
 uint8_t hue = 0;
 
+// initial code block that runs once; sets up info for type
+// of LED strip we're using + other info to make colors look better
 void setup() {
   FastLED.addLeds<WS2812B, LED_PIN, GRB>(leds, NUM_LEDS);
   FastLED.setBrightness(20);
