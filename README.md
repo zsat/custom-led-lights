@@ -1,6 +1,6 @@
 # Custom LED Lights Using Arduino
 
-> Programming LED lights allows us to represent many interesting patterns and functions in a fun way.
+> Addressable LED lights allow us to represent many interesting patterns and functions in a fun way.
 
 ## Hardware
 
