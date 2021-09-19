@@ -10,9 +10,9 @@ uint8_t paletteIndex = 0;
  // as a smooth gradient which we can then display on our LEDs.
  // The args for each line are: position, R, G, B (each 0-255)
 DEFINE_GRADIENT_PALETTE (gradient) {
-  0,   244, 0, 200, // purple-pink
-  127, 246, 20, 0, // orange-ish yellow
-  255, 244, 0, 200// purple-pink
+  0,   244, 0,   200, // purple-pink
+  127, 246, 20,  0, // orange-ish yellow
+  255, 244, 0,   200// purple-pink
   // need to wrap around at the end for smooth gradient
 };
 
