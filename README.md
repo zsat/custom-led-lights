@@ -1,4 +1,4 @@
-# Custom LED Lights Using Arduino
+# (In progress, check back later for full project) Custom LED Lights Using Arduino
 
 > Addressable LED lights allow us to represent many interesting patterns and functions in a fun way.
 
